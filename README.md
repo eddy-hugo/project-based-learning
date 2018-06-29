@@ -187,6 +187,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * Build A Beautiful Real World App with Angular 6 :
   * [Part I](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
 * [Build Responsive layout with BootStrap 4 and Angular 6](https://medium.com/@tomastrajan/how-to-build-responsive-layouts-with-bootstrap-4-and-angular-6-cfbb108d797b)
+* [AngularJS Tutorial: Learn Angular by building a Gmail clone](https://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/#Getting-Started-with-AngularJS)
+* [Projects in AngularJS - Learn by building 10 Projects](https://www.linkedin.com/pulse/projects-angularjs-learn-building-10-umash-warda)
 
 #### Node:
 
